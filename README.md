@@ -44,16 +44,5 @@ A full navigation system using:
 
 ---
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="150">
-</p>
-
----
-
-### 📫 Contact  
-- Instagram: **@your_instagram_here**
-
----
 
 🔧 *Building slowly. Improving always.*

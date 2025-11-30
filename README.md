@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Zakaria 👋</h1>
-<h3 align="center">Developer • Problem Solver • Builder</h3>
+<h1>Hey, I'm Zakaria 👋</h1>
+<h3>Developer • Problem Solver • Builder</h3>
 
 ---
 

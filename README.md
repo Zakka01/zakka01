@@ -1,48 +1,87 @@
-<h1>Hey, I'm Zakaria 👋</h1>
-<h3>Developer • Problem Solver • Builder</h3>
+<div align="center">
+👋 Hi, I’m Zakaria
+Developer • Problem Solver • Builder
 
----
+I build real systems — from moving robots to scalable web apps.
 
-### 🚀 What I'm Working On
-- 🤖 **Maze-solving robot** (C, sensors, PWM control)
-- 🛍️ **E-commerce platform** (Laravel + React)
-- 🧰 Building tools & scripts for real projects
-- 🔧 Learning systems, algorithms, robotics, and backend engineering
+</div>
+🚀 Current Focus
+🤖 Maze-solving robotics
+🛍️ Full-stack e-commerce
+🧰 Practical tools & scripts
+🔧 Systems, algorithms & backend engineering
 
----
+🧠 What I Build
+<table> <tr> <td width="50%">
+🤖 Robotics
 
-### 🛠️ Skills & Tools I Use
-**Languages:**  
-`C` `JavaScript` `PHP` `Python`
+IR sensors & motor control
 
-**Technologies:**  
-`Laravel` `React` `Vite` `Tailwind`  
-`Linux` `PWM` `Git`  
+PWM logic
 
-**Focus Areas:**  
-- Hardware + software integration  
-- Backend logic & APIs  
-- Clean code & structure  
-- Real-world problem solving  
+Decision algorithms
 
----
+Memory & structs
 
-### 📌 Main Projects
+</td> <td width="50%">
+🌐 Web Platforms
 
-#### 🔹 Maze Pathfinder Robot  
-A full navigation system using:  
-- 3 IR sensors  
-- PWM-based motor control  
-- Path memory (struct-based)  
-- Decision algorithm with priority logic  
+Laravel REST APIs
 
-#### 🔹 E-Commerce Platform  
-- Admin dashboard  
-- Product management  
-- Client frontend (React)  
-- Laravel backend (REST API)
+React frontends
 
----
+Admin dashboards
+
+Real product logic
+
+</td> </tr> </table>
+🛠️ Tech Stack
+
+Languages
+
+C • JavaScript • PHP • Python
 
 
-🔧 *Building slowly. Improving always.*
+Frameworks & Tools
+
+Laravel • React • Vite • Tailwind
+Linux • Git • PWM
+
+📌 Featured Projects
+🧭 Maze Pathfinder Robot
+
+A complete autonomous navigation system
+
+3 IR sensors
+
+PWM-based motor control
+
+Path memory (struct-based)
+
+Priority-driven decision logic
+
+🛒 E-Commerce Platform
+
+Built like a real-world product
+
+Admin dashboard
+
+Product management
+
+Client-side React app
+
+Laravel REST API backend
+
+🎯 Engineering Values
+
+Hardware ↔ Software integration
+
+Clean, readable architecture
+
+Logic before libraries
+
+Learning by building
+
+<div align="center">
+🔧 Building slowly. Improving always.
+</div>

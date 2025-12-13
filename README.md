@@ -1,39 +1,50 @@
-// 👋 Hi, I'm Zakaria
-// Developer • Problem Solver • Builder
+┌───────────────────────────────┐
+│ 👋 Hi, I'm Zakaria             │
+│ Developer • Problem Solver • Builder │
+└───────────────────────────────┘
 
-class Zakaria {
-    // 🚀 Current Projects
-    projects = {
-        mazeRobot: {
-            language: "C",
-            features: ["IR sensors", "PWM motor control", "Path memory (structs)", "Decision algorithm with priority logic"]
-        },
-        eCommercePlatform: {
-            stack: ["Laravel", "React", "Vite", "Tailwind"],
-            features: ["Admin dashboard", "Product management", "Client frontend", "REST API backend"]
-        },
-        tools: ["Scripts for real projects"],
-        learning: ["Systems", "Algorithms", "Robotics", "Backend engineering"]
-    }
+🚀 What I’m Working On
+───────────────────────────────
+🤖 Maze-Solving Robot
+   - C, sensors, PWM motor control
+   - Path memory & decision algorithms
 
-    // 🛠️ Skills & Tools
-    skills = {
-        languages: ["C", "JavaScript", "PHP", "Python"],
-        technologies: ["Laravel", "React", "Vite", "Tailwind", "Linux", "PWM", "Git"]
-    }
+🛍️ E-Commerce Platform
+   - Laravel backend + React frontend
+   - Admin dashboard & product management
 
-    // 🎯 Focus Areas
-    focus = [
-        "Hardware ↔ Software integration",
-        "Backend logic & APIs",
-        "Clean, structured code",
-        "Real-world problem solving"
-    ]
+🧰 Tools & Scripts
+   - Utilities for real projects
 
-    // 📌 Motto
-    motto() {
-        return "🔧 Building slowly. Improving always.";
-    }
-}
+🔧 Learning
+   - Systems, algorithms, robotics, backend engineering
 
-// End of snippet
+🛠️ Skills & Tools
+───────────────────────────────
+Languages: C · JavaScript · PHP · Python
+Technologies: Laravel · React · Vite · Tailwind · Linux · PWM · Git
+
+🎯 Focus Areas
+───────────────────────────────
+- Hardware & software integration
+- Backend logic & APIs
+- Clean, structured code
+- Real-world problem solving
+
+📌 Main Projects
+───────────────────────────────
+🤖 Maze Pathfinder Robot
+   - 3 IR sensors
+   - PWM-based motor control
+   - Path memory (structs)
+   - Priority-driven decision logic
+
+🛒 E-Commerce Platform
+   - Admin dashboard
+   - Product management
+   - Client-side React frontend
+   - Laravel REST API backend
+
+🔧 Motto
+───────────────────────────────
+Building slowly. Improving always.

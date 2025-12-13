@@ -1,87 +1,39 @@
-<div align="center">
-👋 Hi, I’m Zakaria
-Developer • Problem Solver • Builder
+// 👋 Hi, I'm Zakaria
+// Developer • Problem Solver • Builder
 
-I build real systems — from moving robots to scalable web apps.
+class Zakaria {
+    // 🚀 Current Projects
+    projects = {
+        mazeRobot: {
+            language: "C",
+            features: ["IR sensors", "PWM motor control", "Path memory (structs)", "Decision algorithm with priority logic"]
+        },
+        eCommercePlatform: {
+            stack: ["Laravel", "React", "Vite", "Tailwind"],
+            features: ["Admin dashboard", "Product management", "Client frontend", "REST API backend"]
+        },
+        tools: ["Scripts for real projects"],
+        learning: ["Systems", "Algorithms", "Robotics", "Backend engineering"]
+    }
 
-</div>
-🚀 Current Focus
-🤖 Maze-solving robotics
-🛍️ Full-stack e-commerce
-🧰 Practical tools & scripts
-🔧 Systems, algorithms & backend engineering
+    // 🛠️ Skills & Tools
+    skills = {
+        languages: ["C", "JavaScript", "PHP", "Python"],
+        technologies: ["Laravel", "React", "Vite", "Tailwind", "Linux", "PWM", "Git"]
+    }
 
-🧠 What I Build
-<table> <tr> <td width="50%">
-🤖 Robotics
+    // 🎯 Focus Areas
+    focus = [
+        "Hardware ↔ Software integration",
+        "Backend logic & APIs",
+        "Clean, structured code",
+        "Real-world problem solving"
+    ]
 
-IR sensors & motor control
+    // 📌 Motto
+    motto() {
+        return "🔧 Building slowly. Improving always.";
+    }
+}
 
-PWM logic
-
-Decision algorithms
-
-Memory & structs
-
-</td> <td width="50%">
-🌐 Web Platforms
-
-Laravel REST APIs
-
-React frontends
-
-Admin dashboards
-
-Real product logic
-
-</td> </tr> </table>
-🛠️ Tech Stack
-
-Languages
-
-C • JavaScript • PHP • Python
-
-
-Frameworks & Tools
-
-Laravel • React • Vite • Tailwind
-Linux • Git • PWM
-
-📌 Featured Projects
-🧭 Maze Pathfinder Robot
-
-A complete autonomous navigation system
-
-3 IR sensors
-
-PWM-based motor control
-
-Path memory (struct-based)
-
-Priority-driven decision logic
-
-🛒 E-Commerce Platform
-
-Built like a real-world product
-
-Admin dashboard
-
-Product management
-
-Client-side React app
-
-Laravel REST API backend
-
-🎯 Engineering Values
-
-Hardware ↔ Software integration
-
-Clean, readable architecture
-
-Logic before libraries
-
-Learning by building
-
-<div align="center">
-🔧 Building slowly. Improving always.
-</div>
+// End of snippet

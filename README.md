@@ -20,15 +20,15 @@
 
 ### [fashyear - Full Stack Project](https://github.com/Zakka01/fashyear)
 >   🛍️ Full-stack platform built with Laravel backend, React frontend, Vite, and MySQL.
-    💡Skills: React, Laravel, Vite, MySQL, Tailwind CSS, REST APIs
+>   💡Skills: React, Laravel, Vite, MySQL, Tailwind CSS, REST APIs
 
 ### [Maze Runner Robot](https://github.com/Zakka01/PathFinder-Maze-Solver)
 >   🤖 Arduino project navigating mazes using IR sensors and PWM motor control
-    💡Skills: C, Arduino, PWM, Sensors, Robotics logic
+>   💡Skills: C, Arduino, PWM, Sensors, Robotics logic
 
 ### [ft_printf Project](https://github.com/Zakka01/ft_printf)
 >   📜 Custom printf implementation in C
-    💡Skills: C, Memory management, String formatting, Unix system calls
+>   💡Skills: C, Memory management, String formatting, Unix system calls
 
 ---
 

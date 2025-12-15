@@ -1,17 +1,17 @@
 # Hey 👋, I'm Ahrabare Zakariae
-🚀 **Software Engineering Student | 1337 (42 Network) 
+🚀 **Software Engineering Student | 1337 (42 Network)** 
 
 ---
 
 ## 🛠️ Tech Stack
-  ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ---
@@ -33,11 +33,11 @@
 ---
 
 ## ⚡ Contribution & Activity
-    I code **daily** 💻 and love pushing updates regularly!  
-    Check my GitHub activity for the latest commits → [My GitHub](https://github.com/Zakka01)
+I code **daily** 💻 and love pushing updates regularly!  
+Check my GitHub activity for the latest commits → [My GitHub](https://github.com/Zakka01)
 
 ---
 
 ## 📫 Connect with Me
-    - LinkedIn: [Ahrabare Zakariae](https://www.linkedin.com/in/ahrabare-zakariae-a9a407399/)
-    - GitHub: [Zakka01](https://github.com/Zakka01)
+- LinkedIn: [Ahrabare Zakariae](https://www.linkedin.com/in/ahrabare-zakariae-a9a407399/)
+- GitHub: [Zakka01](https://github.com/Zakka01)

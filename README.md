@@ -1,7 +1,7 @@
 # Hey 👋, I'm Ahrabare Zakariae
 🚀 **Software Engineering Student | 1337 (42 Network) 
 
-    ---
+---
 
 ## 🛠️ Tech Stack
   ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
@@ -14,7 +14,7 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-    ---
+---
 
 ## 🔥 Pinned Projects
 
@@ -30,13 +30,13 @@
 >   📜 Custom printf implementation in C
     💡Skills: C, Memory management, String formatting, Unix system calls
 
-    ---
+---
 
 ## ⚡ Contribution & Activity
     I code **daily** 💻 and love pushing updates regularly!  
     Check my GitHub activity for the latest commits → [My GitHub](https://github.com/Zakka01)
 
-    ---
+---
 
 ## 📫 Connect with Me
     - LinkedIn: [Ahrabare Zakariae](https://www.linkedin.com/in/ahrabare-zakariae-a9a407399/)

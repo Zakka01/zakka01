@@ -19,7 +19,7 @@
 ## 🔥 Pinned Projects
 
 ### [fashyear - Full Stack Project](https://github.com/Zakka01/fashyear)
-> 🛍️ Full-stack platform built with Laravel backend, React frontend, Vite, and MySQL.
+> 🛍️ Full-stack platform built with Laravel backend, React frontend, Vite, and MySQL
 💡 Skills: React, Laravel, Vite, MySQL, Tailwind CSS, REST APIs
 
 ### [Maze Runner Robot](https://github.com/Zakka01/PathFinder-Maze-Solver)
@@ -30,6 +30,14 @@
 > 📜 Custom printf implementation in C
 💡 Skills: C, Memory management, String formatting, Unix system calls
 
+> 📜 Read files line by line in C with memory management & buffer handling  
+💡 Skills: C, Unix system calls, Algorithms
+
+> 📊 Interactive web dashboard fetching API data, login auth  
+💡 Skills: Python, Flask, JS, HTML/CSS, MySQL
+
+> 🎨 Responsive websites & UI components  
+💡 Skills: HTML, CSS, JS, Frontend design
 ---
 
 ## ⚡ Contribution & Activity

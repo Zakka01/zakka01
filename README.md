@@ -12,7 +12,6 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
     ---
@@ -20,16 +19,16 @@
     ## 🔥 Pinned Projects
 
     ### [fashyear - Full Stack Project](https://github.com/Zakka01/fashyear)
-    > 🛍️ Full-stack platform built with Laravel backend, React frontend, Vite, and MySQL.
-💡 Skills: React, Laravel, Vite, MySQL, Tailwind CSS, REST APIs
+    >   🛍️ Full-stack platform built with Laravel backend, React frontend, Vite, and MySQL.
+        💡Skills: React, Laravel, Vite, MySQL, Tailwind CSS, REST APIs
 
     ### [Maze Runner Robot](https://github.com/Zakka01/PathFinder-Maze-Solver)
-    > 📊 🤖 Arduino project navigating mazes using IR sensors and PWM motor control
-💡 Skills: C, Arduino, PWM, Sensors, Robotics logic
+    >   🤖 Arduino project navigating mazes using IR sensors and PWM motor control
+        💡Skills: C, Arduino, PWM, Sensors, Robotics logic
 
     ### [ft_printf Project](https://github.com/Zakka01/ft_printf)
-    > 📜 Custom printf implementation in C
-💡 Skills: C, Memory management, String formatting, Unix system calls
+    >   📜 Custom printf implementation in C
+        💡Skills: C, Memory management, String formatting, Unix system calls
 
     ---
 
